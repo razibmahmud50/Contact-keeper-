@@ -21,4 +21,4 @@ router.delete('/:id', (req, res)=>{
     res.send('delete contact')
 })
 
-module.export = router
+module.exports= router
