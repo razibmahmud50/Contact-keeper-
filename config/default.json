@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://razib:demopass@contactkeeper-aqnlm.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "jwtSecret"
+}
