@@ -19,6 +19,6 @@ app.use('/api/contacts', require('./routes/contacts'))
 
 
 
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 2000
 
 app.listen(PORT, ()=>console.log(`Server started on port ${PORT}`))
